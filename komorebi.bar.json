@@ -11,10 +11,10 @@
   "monitor": {
     "index": 0,
     "work_area_offset": {
-      "left": -15,
-      "top": 8,
-      "right": -30,
-      "bottom": -5
+      "left": -18,
+      "top": 5,
+      "right": -35,
+      "bottom": -10
     }
   },
 
